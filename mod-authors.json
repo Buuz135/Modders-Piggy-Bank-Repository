@@ -136,5 +136,19 @@
         "url": "https://liberapay.com/moehreag"
       }
     ]
+  },
+  {
+    "author": "Maxence",
+    "primary_color": "0xb7bdf8",
+    "secondary_color": "0xc6a0f6",
+    "alternate_attribution": [
+      "m", "MaxenceDC"
+    ],
+    "links": [
+      {
+        "type": "buymeacoffee",
+        "url": "buymeacoffee.com/maxencedc"
+      }
+    ]
   }
 ]
